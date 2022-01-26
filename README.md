@@ -1,3 +1,3 @@
-# [NLP-Assessment](https://github.com/satheeshkumar-r/NLP-Assessment) 
+# [Text Classifier](https://github.com/satheeshkumar-r/NLP-Assessment) 
 
-NLP training using distilbert-base-uncased model
+Supervised machine learning model trained using different algorithms.
